@@ -49,4 +49,4 @@ The repository is structured week-by-week, mirroring the progression of the cour
 If you have any feedback, suggestions, or would like to discuss database engineering, feel free to reach out!
 
 *   **GitHub:** deesharankaur(https://github.com/deesharankaur)
-*   **LinkedIn:** Deesharan Kaur(https://linkedin.com/in/deesharan-kaur)
+*   **LinkedIn:** Deesharan Kaur(https://linkedin.com/in/deesharan-kaur-ai)
