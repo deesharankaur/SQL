@@ -27,7 +27,7 @@ The repository is structured week-by-week, mirroring the progression of the cour
 | **04** | **Viewing** | Creating views, optimizing queries, securing data access, and metadata. | [`[View Week 4](./week4/)`] |
 | **05** | **Optimizing** | Indexing, query performance analysis (`EXPLAIN`), and bottlenecks. | [`[View Week 5](./week5/)`] |
 | **06** | **Scaling** | Scaling databases, concurrency, transactions, and security practices (SQL injection prevention). | [`[View Week 6](./week6/)`] |
-| **Final** | **Capstones / Projects** | A comprehensive project integrating SQL with backend programming or advanced database schemas. | [`[View Final Project](./final-project/)`] |
+| **Final** | **Capstones / Projects** | A comprehensive project integrating SQL with backend programming or advanced database schemas. | https://github.com/deesharankaur/E-commerce-Sales-and-Customer-Analysis-using-SQL |
 
 ---
 
