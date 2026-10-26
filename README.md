@@ -5,7 +5,7 @@ Welcome to my repository for **CS50’s Introduction to Databases with SQL**! Th
 ---
 
 ## 🚀 About the Course
-[CS50x SQL](https://cs50.harvard.edu/sql/) dives deep into how to design, query, and manage relational databases. Throughout this curriculum, I gained hands-on experience with:
+[CS50 SQL](https://cs50.harvard.edu/sql/) dives deep into how to design, query, and manage relational databases. Throughout this curriculum, I gained hands-on experience with:
 *   Relational database concepts and entity-relationship (ER) modeling.
 *   Writing complex SQL queries (`SELECT`, `JOIN`, `GROUP BY`, subqueries).
 *   Database design principles, schema optimization, and normalization (1NF, 2NF, 3NF).
