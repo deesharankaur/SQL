@@ -1,4 +1,4 @@
-# 🗄️ CS50's Introduction to Databases with SQL (CS50SQL)
+# CS50's Introduction to Databases with SQL (CS50SQL)
 
 Welcome to my repository for **CS50’s Introduction to Databases with SQL**! This repository serves as a portfolio of my work, documenting my journey through Harvard University’s rigorous database course. Each week's problem set has been solved, organized, and optimized to demonstrate practical database design and query execution skills.
 
@@ -48,5 +48,5 @@ The repository is structured week-by-week, mirroring the progression of the cour
 ## Connect With Me
 If you have any feedback, suggestions, or would like to discuss database engineering, feel free to reach out!
 
-*   **GitHub:** deesharankaur(https://github.com/deesharankaur)
-*   **LinkedIn:** Deesharan Kaur(https://linkedin.com/in/deesharan-kaur-ai)
+*   **GitHub:** [deesharankaur](https://github.com/deesharankaur)
+*   **LinkedIn:** [Deesharan Kaur](https://linkedin.com/in/deesharan-kaur-ai)
