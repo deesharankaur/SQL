@@ -20,7 +20,7 @@ The repository is structured week-by-week, mirroring the progression of the cour
 
 | Week | Topic / Focus Area | Key Concepts Covered | Link |
 | :--- | :--- | :--- | :--- |
-| **00** | **Querying** | Basic queries, filtering, sorting, aggregate functions (`COUNT`, `AVG`, `SUM`). | [`[View Week 0](./week0/)`] |
+| **00** | **Querying** | Basic queries, filtering, sorting, aggregate functions (`COUNT`, `AVG`, `SUM`). | [View Week 0](./week0/) |
 | **01** | **Relational Databases** | Writing multi-table queries, `JOIN` types (Inner, Left, Right), foreign keys. | [`[View Week 1](./week1/)`] |
 | **02** | **Designing** | Database design, schema creation, normalization, primary and foreign key constraints. | [`[View Week 2](./week2/)`] |
 | **03** | **Writing** | Data manipulation language (`INSERT`, `UPDATE`, `DELETE`), transactions, and views. | [`[View Week 3](./week3/)`] |
