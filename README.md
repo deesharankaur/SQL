@@ -26,7 +26,7 @@ The repository is structured week-by-week, mirroring the progression of the cour
 | **03** | **Writing** | Data manipulation language (`INSERT`, `UPDATE`, `DELETE`), transactions, and views. | [View Week 3](https://github.com/deesharankaur/SQL/tree/main/Week3) |
 | **04** | **Viewing** | Creating views, optimizing queries, securing data access, and metadata. | [View Week 4](https://github.com/deesharankaur/SQL/tree/main/Week4) |
 | **05** | **Optimizing** | Indexing, query performance analysis (`EXPLAIN`), and bottlenecks. | [View Week 5](./Week5/) |
-| **06** | **Scaling** | Scaling databases, concurrency, transactions, and security practices (SQL injection prevention). | [View Week 6](https://GitHub.com/deesharankaur/SQL/week6/) |
+| **06** | **Scaling** | Scaling databases, concurrency, transactions, and security practices (SQL injection prevention). | [View Week 6](./Week6/) |
 | **Final** | **Capstones / Projects** | A comprehensive project integrating SQL with backend programming or advanced database schemas. | [View Project](https://github.com/deesharankaur/E-commerce-Sales-and-Customer-Analysis-using-SQL) |
 
 ---
